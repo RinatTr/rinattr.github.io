@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.e98dc9e1.chunk.css",
-    "main.js": "/static/js/main.d50aa292.chunk.js",
-    "main.js.map": "/static/js/main.d50aa292.chunk.js.map",
+    "main.js": "/static/js/main.6cdfc219.chunk.js",
+    "main.js.map": "/static/js/main.6cdfc219.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/js/2.9a154e1f.chunk.js": "/static/js/2.9a154e1f.chunk.js",
     "static/js/2.9a154e1f.chunk.js.map": "/static/js/2.9a154e1f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6767dd2f1efb5b1746d192c277969134.js": "/precache-manifest.6767dd2f1efb5b1746d192c277969134.js",
+    "precache-manifest.03b24c7f05078b34e44ccc8dfb608b85.js": "/precache-manifest.03b24c7f05078b34e44ccc8dfb608b85.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e98dc9e1.chunk.css.map": "/static/css/main.e98dc9e1.chunk.css.map",
     "static/media/pi-thumb.png": "/static/media/pi-thumb.93c397a2.png",
     "static/media/post_modal.png": "/static/media/post_modal.fb4646ab.png",
-    "static/media/resume.pdf": "/static/media/resume.2ee4d5f3.pdf",
+    "static/media/resume.pdf": "/static/media/resume.24318803.pdf",
     "static/media/rinat.jpg": "/static/media/rinat.ac1ed860.jpg",
     "static/media/ringedin.png": "/static/media/ringedin.01a55605.png",
     "static/media/win-game.png": "/static/media/win-game.01a55605.png"
