@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.423fc0dd.chunk.css",
+    "main.js": "/static/js/main.ba992134.chunk.js",
+    "main.js.map": "/static/js/main.ba992134.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.3d88e0ba.chunk.js": "/static/js/2.3d88e0ba.chunk.js",
+    "static/js/2.3d88e0ba.chunk.js.map": "/static/js/2.3d88e0ba.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fb036fe7fba89fa70f2ecdd44341669b.js": "/precache-manifest.fb036fe7fba89fa70f2ecdd44341669b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.423fc0dd.chunk.css.map": "/static/css/main.423fc0dd.chunk.css.map",
+    "static/media/pi-thumb.png": "/static/media/pi-thumb.93c397a2.png",
+    "static/media/post_modal.png": "/static/media/post_modal.fb4646ab.png",
+    "static/media/resume.pdf": "/static/media/resume.24318803.pdf",
+    "static/media/rinat.jpg": "/static/media/rinat.ac1ed860.jpg",
+    "static/media/ringedin.png": "/static/media/ringedin.01a55605.png",
+    "static/media/soundbody_demo.gif": "/static/media/soundbody_demo.a8474f17.gif",
+    "static/media/time_con.gif": "/static/media/time_con.445320c5.gif",
+    "static/media/win-game.png": "/static/media/win-game.01a55605.png"
+  }
+}
